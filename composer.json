@@ -1,0 +1,20 @@
+{
+    "name": "danieldolz/tennis",
+    "type": "phpspec",
+    "require": {
+        "phpspec/phpspec": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "danieldolz",
+            "email": "danieldolz@iesebre.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
